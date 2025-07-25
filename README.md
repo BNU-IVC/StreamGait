@@ -15,16 +15,6 @@ Official repository of **MirrorGait** code and the **StreamGait** dataset.
 - [ ] Release the Data Acquisition Procedures and Protocols.
 - [ ] Release the training code and models of MirrorGait
 
-
-## 🏆 Key Numbers
-| Benchmark | Rank-1 (prior SOTA) | Rank-1 (MirrorGait-ft) | Gain |
-|-----------|---------------------|-------------------------|------|
-| Gait3D    | 38.1 (SkeletonGait) | **48.1**                | **+10.0%** |
-| GREW      | 77.4 (SkeletonGait) | **79.6**                | **+2.2%** |
-| OUMVLP-Pose | 70.5 (GaitGraph2) | **73.9**         | **+3.4%** |
-
-
-
 ## 📊 Dataset Details
 
 | Attribute        | StreamGait        | GaitLU-1M | 
@@ -37,7 +27,12 @@ Official repository of **MirrorGait** code and the **StreamGait** dataset.
   <img src="Assets/dataset.png" style="width:100%; max-width:1000px;"/>
 </p>
 
-
+## 🏆 Key Numbers
+| Benchmark | Rank-1 (prior SOTA) | Rank-1 (MirrorGait-ft) | Gain |
+|-----------|---------------------|-------------------------|------|
+| Gait3D    | 38.1 (SkeletonGait) | **48.1**                | **+10.0%** |
+| GREW      | 77.4 (SkeletonGait) | **79.6**                | **+2.2%** |
+| OUMVLP-Pose | 70.5 (GaitGraph2) | **73.9**         | **+3.4%** |
 
 ## 📬 Contact
-For questions or collaboration: `mengshibei@mail.bnu.edu.cn`  
+For questions or collaboration: Shibei Meng, `mengshibei@mail.bnu.edu.cn`  
