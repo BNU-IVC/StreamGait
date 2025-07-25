@@ -30,8 +30,9 @@ Official repository of **MirrorGait** code and the **StreamGait** dataset.
 | **Camera**       | Real-world fixed  | Handheld  | 
 | **Environments** | 81 cities, 30 countries | 16 cities | 
 
-
-
+<p align="center">
+  <img src="Assets/dataset.png" style="width:100%; max-width:1000px;"/>
+</p>
 
 
 
