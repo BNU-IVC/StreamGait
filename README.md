@@ -12,8 +12,8 @@ Official repository of **MirrorGait** code and the **StreamGait** dataset.
 - **MirrorGait**: A **self-supervised** 3D-aware pre-training framework that lifts 2D poses to 3D for **contrastive learning**, achieving **SOTA** on Gait3D, GREW and OUMVLP-Pose with **minimal fine-tuning**.
 
 ## 📝 TODO
-- [ ] Release the Data Acquisition Procedures and Protocols.
-- [ ] Release the training code and models of MirrorGait
+- [ ] Release the data acquisition procedures and protocols.
+- [ ] Release the training code and models of MirrorGait.
 
 ## 📊 Dataset Details
 
