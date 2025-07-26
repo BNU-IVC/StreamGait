@@ -19,7 +19,7 @@ Official repository of **MirrorGait** code and the **StreamGait** dataset.
 
 | Attribute        | StreamGait        | GaitLU-1M | 
 |------------------|-------------------|-----------|
-| **#Sequences**   | 854 k             | 1.0 M     | 
+| **#Sequences**   | 854 K             | 1.0 M     | 
 | **Camera**       | Real-world fixed  | Handheld  | 
 | **Environments** | 81 cities, 30 countries | 16 cities | 
 
